@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 # Website AI assistant 
 
 ![image.png](./public/Sample_Wireframe.png)
 
 ## webcrumbs - frontend-ai
+=======
+# Frontend AI
+>>>>>>> 874994d298ae837ea7288f503e60a8313902fe91
 
 - [webcrumbs - frontend-ai](https://app.webcrumbs.ai/frontend-ai)
   - support GUI to modify directly
