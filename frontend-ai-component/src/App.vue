@@ -1,9 +1,9 @@
 <script setup>
-import WebcrumbsComponent from './components/WebcrumbsComponent.vue'
+import CursorByFigmaMcpComponent from './components/CursorByFigmaMcpComponent.vue'
 </script>
 
 <template>
-  <WebcrumbsComponent></WebcrumbsComponent>
+  <CursorByFigmaMcpComponent></CursorByFigmaMcpComponent>
 </template>
 
 <style scoped>
