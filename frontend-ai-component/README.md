@@ -1,4 +1,4 @@
-# frontend ai
+# Frontend AI
 
 - [webcrumbs - frontend-ai](https://app.webcrumbs.ai/frontend-ai)
 
